@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dynxra
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Java, HTML, CSS, Javascript, React.js
+- 🌱 I’m currently learning HTML, CSS, Javascript, Java, React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
